@@ -1,2 +1,2 @@
 # OneMinuteSniper
-Proekt po predmetot Vizuelno programiranje.
+Комплетната документација за оваа апликација можете да ја видите во dokumentacija.docx датотеката.

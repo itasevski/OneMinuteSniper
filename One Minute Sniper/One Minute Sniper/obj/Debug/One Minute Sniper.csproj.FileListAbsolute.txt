@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\bin\Debug\One Minute Sniper.exe.config
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\bin\Debug\One Minute Sniper.exe
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\bin\Debug\One Minute Sniper.pdb
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.MainMenu.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.Properties.Resources.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.exe
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.pdb
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.NewGame.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.EndGameDialog.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.GamertagPrompt.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.Settings.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.About.resources
+C:\Users\User\Desktop\Иво Тасевски - ФИНКИ\IV семестар\Визуелно програмирање\Проект\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.FollowUs.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\bin\Debug\One Minute Sniper.exe.config
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\bin\Debug\One Minute Sniper.exe
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\bin\Debug\One Minute Sniper.pdb
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.About.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.EndGameDialog.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.FollowUs.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.GamertagPrompt.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.MainMenu.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.NewGame.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.Properties.Resources.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One_Minute_Sniper.Settings.resources
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.exe
+C:\Users\User\Desktop\OneMinuteSniper\One Minute Sniper\One Minute Sniper\obj\Debug\One Minute Sniper.pdb
